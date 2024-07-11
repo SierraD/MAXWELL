@@ -7,6 +7,7 @@ MAXWELL (Microscopy by Achromatic X-rays With Emission of Laminar Light) is a ta
 
 > [!NOTE]  
 > Must have Python, Anaconda powershell, or Jupyter Notebook, etc installed.
+
 > [!WARNING]  
 > I RECOMMEND DOING THIS ONLY FOR COPIED DATA AND NOT THE ORIGINAL, AS THERE IS NO UNDO.
 
