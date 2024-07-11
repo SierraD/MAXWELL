@@ -26,3 +26,6 @@ Instructions for MAXWELL_StructuredStack: (Must have ImageJ or Fiji installed)
 - Plugins -> Macros -> Run -> Select MAXWELL_StructuredStack.ijm
 - Imput all information from your stack
 Finished. Check the data. 
+
+MAXWELL Software developed by Sierra Dean @ RIKEN SPring-8 Center (JAPAN) 2024
+Email: ccnd@live.com
