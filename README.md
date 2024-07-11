@@ -13,9 +13,11 @@ Instructions for MAXWELL_MultiDimensionalRename: (Must have Python installed, An
 - Type the following then click enter:
     from MAXWELL_MultiDimensionalRename import Rename
 - Type the following then click enter: (The path should be the path to your stack. It is important to include the r outside of the quotation marks)
-    a = Rename.(r"C:\Users\User\Desktop\Folder")
+
+  a = Rename.(r"C:\Users\User\Desktop\Folder")
 - Type the following then click enter: (Please change the name and numbers to reflect the data)
-    a.Execute(sample_name="YourSample", deg=0, Z_Num=10, X_Num=31)
+
+  a.Execute(sample_name="YourSample", deg=0, Z_Num=10, X_Num=31)
 Finished. Check the folder to ensure the name was changed correctly.
 
 Instructions for MAXWELL_StructuredStack: (Must have ImageJ or Fiji installed)
@@ -23,6 +25,7 @@ Instructions for MAXWELL_StructuredStack: (Must have ImageJ or Fiji installed)
 - (In ImageJ) File -> Import -> Image Sequence -> Select your data
 - Plugins -> Macros -> Run -> Select MAXWELL_StructuredStack.ijm
 - Imput all information from your stack
+
 Finished. Check the data. 
 
 MAXWELL Software developed by Sierra Dean @ RIKEN SPring-8 Center (JAPAN) 2024
