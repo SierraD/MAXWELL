@@ -19,11 +19,14 @@ MAXWELL (Microscopy by Achromatic X-rays With Emission of Laminar Light) is a ta
     from MAXWELL_MultiDimensionalRename import Rename
     ```
 - Type the following then click enter: (The path should be the path to your stack. It is important to include the r outside of the quotation marks)
-
-     a = Rename.(r"C:\Users\User\Desktop\Folder")
+  - ```ruby
+    a = Rename.(r"C:\Users\User\Desktop\Folder")
+    ```
 - Type the following then click enter: (Please change the name and numbers to reflect the data)
-
-     a.Execute(sample_name="YourSample", deg=0, Z_Num=10, X_Num=31)
+  - ```ruby
+    a.Execute(sample_name="YourSample", deg=0, Z_Num=10, X_Num=31)
+    ```
+     
 Finished. Check the folder to ensure the name was changed correctly.
 
 ## Instructions for MAXWELL_StructuredStack:
