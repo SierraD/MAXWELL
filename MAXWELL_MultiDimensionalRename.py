@@ -1,4 +1,7 @@
-class MultiDimensionalRename(object):
+import os
+import numpy
+
+class Rename(object):
     """
     This file is part of the MAXWELL software.
     https://doi.org/10.1038/s41598-022-13377-w
@@ -33,7 +36,7 @@ class MultiDimensionalRename(object):
         self.path = path
         return 
     
-    def Rename(self, sample_name="Sample", deg=0, Z_Num=10, X_Num=31):
+    def Execute(self, sample_name="Sample", deg=0, Z_Num=10, X_Num=31):
         """
         A technique to rename the images to include the desired information.
         
