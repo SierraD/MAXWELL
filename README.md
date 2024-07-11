@@ -40,8 +40,7 @@ Finished. Check the folder to ensure the name was changed correctly.
 - Imput all information from your stack
 
 
-Finished. Check the data. 
-
-MAXWELL Software developed by Sierra Dean @ RIKEN SPring-8 Center (JAPAN) 2024
-
+Finished. Check the data. <br />
+<br />
+MAXWELL Software developed by Sierra Dean @ RIKEN SPring-8 Center (JAPAN) 2024 <br />
 Email: ccnd@live.com
