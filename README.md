@@ -6,6 +6,7 @@ MAXWELL (Microscopy by Achromatic X-rays With Emission of Laminar Light) is a ta
 MAXWELL software developed by Sierra Dean @ RIKEN SPring-8 Center (Japan) 2024
 
 Instructions for MAXWELL_MultiDimensionalRename: (Must have Python installed, Anaconda powershell, Jupyter Notebook, etc.)
+   
     I RECOMMEND DOING THIS ONLY FOR COPIED DATA AND NOT THE ORIGINAL
 - Download MAXWELL_MultiDimensionalRename.py from Github
 - Open python command line
