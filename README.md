@@ -4,12 +4,11 @@ https://doi.org/10.1038/s41598-022-13377-w
 MAXWELL (Microscopy by Achromatic X-rays With Emission of Laminar Light) is a tandem use X-ray/visible light microscopy technique designed and implemented at BL29XU at the RIKEN SPring-8 Center, Japan. This repository contains several scripts, primarily in Python and Java, which are intended to be used for experimentation and analysis on output from the MAXWELL microscopy system. 
 
 # Instructions for MAXWELL_MultiDimensionalRename: 
+> [!WARNING]  
+> I RECOMMEND DOING THIS ONLY FOR COPIED DATA AND NOT THE ORIGINAL, AS THERE IS NO UNDO.
 
 > [!NOTE]  
 > Must have Python, Anaconda powershell, or Jupyter Notebook, etc installed.
-
-> [!WARNING]  
-> I RECOMMEND DOING THIS ONLY FOR COPIED DATA AND NOT THE ORIGINAL, AS THERE IS NO UNDO.
 
 - Download MAXWELL_MultiDimensionalRename.py from Github
 - Open python command line
