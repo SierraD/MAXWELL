@@ -15,8 +15,12 @@ MAXWELL (Microscopy by Achromatic X-rays With Emission of Laminar Light) is a ta
 - cd into the folder containing the downloaded file
 - Type "python" to open the python environment
 - Type the following then click enter:
+
+```ruby
+from MAXWELL_MultiDimensionalRename import Rename
+```
   
-     from MAXWELL_MultiDimensionalRename import Rename
+  from MAXWELL_MultiDimensionalRename import Rename
 - Type the following then click enter: (The path should be the path to your stack. It is important to include the r outside of the quotation marks)
 
      a = Rename.(r"C:\Users\User\Desktop\Folder")
