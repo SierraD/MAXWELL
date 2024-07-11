@@ -35,8 +35,8 @@ Finished. Check the folder to ensure the name was changed correctly.
 > Must have ImageJ or Fiji installed
 
 - Download MAXWELL_StructuredStack.ijm from Github
-- (In ImageJ) File -> Import -> Image Sequence -> Select your data
-- Plugins -> Macros -> Run -> Select MAXWELL_StructuredStack.ijm
+- (In ImageJ) File ⟶ Import ⟶ Image Sequence ⟶ Select your data
+- Plugins ⟶ Macros ⟶ Run ⟶ Select MAXWELL_StructuredStack.ijm
 - Imput all information from your stack
 
 
