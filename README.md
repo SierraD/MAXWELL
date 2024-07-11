@@ -3,8 +3,10 @@ https://doi.org/10.1038/s41598-022-13377-w
 
 MAXWELL (Microscopy by Achromatic X-rays With Emission of Laminar Light) is a tandem use X-ray/visible light microscopy technique designed and implemented at BL29XU at the RIKEN SPring-8 Center, Japan. This repository contains several scripts, primarily in Python and Java, which are intended to be used for experimentation and analysis on output from the MAXWELL microscopy system. 
 
-Instructions for MAXWELL_MultiDimensionalRename: (Must have Python installed, Anaconda powershell, Jupyter Notebook, etc.)
+# Instructions for MAXWELL_MultiDimensionalRename: 
 
+> [!NOTE]  
+> Must have Python, Anaconda powershell, or Jupyter Notebook, etc installed.
 > [!WARNING]  
 > I RECOMMEND DOING THIS ONLY FOR COPIED DATA AND NOT THE ORIGINAL, AS THERE IS NO UNDO.
 
@@ -23,7 +25,11 @@ Instructions for MAXWELL_MultiDimensionalRename: (Must have Python installed, An
      a.Execute(sample_name="YourSample", deg=0, Z_Num=10, X_Num=31)
 Finished. Check the folder to ensure the name was changed correctly.
 
-Instructions for MAXWELL_StructuredStack: (Must have ImageJ or Fiji installed)
+# Instructions for MAXWELL_StructuredStack:
+
+> [!NOTE]  
+> Must have ImageJ or Fiji installed
+
 - Download MAXWELL_StructuredStack.ijm from Github
 - (In ImageJ) File -> Import -> Image Sequence -> Select your data
 - Plugins -> Macros -> Run -> Select MAXWELL_StructuredStack.ijm
