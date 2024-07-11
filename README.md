@@ -6,10 +6,8 @@ MAXWELL (Microscopy by Achromatic X-rays With Emission of Laminar Light) is a ta
 Instructions for MAXWELL_MultiDimensionalRename: (Must have Python installed, Anaconda powershell, Jupyter Notebook, etc.)
 
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> I RECOMMEND DOING THIS ONLY FOR COPIED DATA AND NOT THE ORIGINAL, AS THERE IS NO UNDO.
 
-
-   I RECOMMEND DOING THIS ONLY FOR COPIED DATA AND NOT THE ORIGINAL
 - Download MAXWELL_MultiDimensionalRename.py from Github
 - Open python command line
 - cd into the folder containing the downloaded file
